@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "HelloTypScript", "HelloTypScript\HelloTypScript.njsproj", "{27341D3B-E391-4BF9-9ED6-0960AF542214}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.njsproj", "{F8FAA9BD-E955-43C2-8208-7C8579B3217A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{27341D3B-E391-4BF9-9ED6-0960AF542214}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27341D3B-E391-4BF9-9ED6-0960AF542214}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27341D3B-E391-4BF9-9ED6-0960AF542214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8FAA9BD-E955-43C2-8208-7C8579B3217A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FAA9BD-E955-43C2-8208-7C8579B3217A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FAA9BD-E955-43C2-8208-7C8579B3217A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FAA9BD-E955-43C2-8208-7C8579B3217A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
